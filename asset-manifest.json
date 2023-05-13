@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thaiflashcards/static/css/main.073c9b0a.css",
+    "main.js": "/thaiflashcards/static/js/main.087ea761.js",
+    "static/js/787.80354c9f.chunk.js": "/thaiflashcards/static/js/787.80354c9f.chunk.js",
+    "index.html": "/thaiflashcards/index.html",
+    "main.073c9b0a.css.map": "/thaiflashcards/static/css/main.073c9b0a.css.map",
+    "main.087ea761.js.map": "/thaiflashcards/static/js/main.087ea761.js.map",
+    "787.80354c9f.chunk.js.map": "/thaiflashcards/static/js/787.80354c9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.087ea761.js"
+  ]
+}
